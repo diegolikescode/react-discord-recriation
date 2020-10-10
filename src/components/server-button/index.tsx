@@ -1,6 +1,8 @@
 import React from 'react'
 
-import Logo from '../../assets/logo.svg'
+// import Logo from '../../assets/logo.svg'
+import Logo from '../../assets/batLogo.png'
+
 import { Button } from './styles'
 
 export interface Props {
