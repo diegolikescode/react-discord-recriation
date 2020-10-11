@@ -13,7 +13,7 @@ const ChannelList: React.FC = () => {
       </Category>
 
       <ChannelButton channelName="bat-chat" />
-      <ChannelButton channelName="waifus-batman" />
+      <ChannelButton channelName="bat-waifu" />
       <ChannelButton channelName="bat-phone" />
       <ChannelButton channelName="bat-lolzinho" />
       <ChannelButton channelName="bat-robin" />
