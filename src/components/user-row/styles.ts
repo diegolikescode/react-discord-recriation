@@ -19,7 +19,7 @@ export const User = styled.div`
 
   > strong {
     margin-left: 13px;
-    font-weight: 500px;
+    font-weight: 500;
     color: var(--white);
     opacity: 0.7;
 

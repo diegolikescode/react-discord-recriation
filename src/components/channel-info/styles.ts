@@ -25,7 +25,7 @@ export const Title = styled.h1`
   margin-left: 9px;
 
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 600;
 
   color: var(--white);
 `
@@ -42,5 +42,6 @@ export const Separator = styled.div`
 
 export const Description = styled.span`
   font-size: 15px;
+  font-weight: 200;
   color: var(--gray);
 `

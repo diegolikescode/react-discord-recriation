@@ -23,6 +23,7 @@ export const Container = styled.div`
 
   > div span {
     margin-left: 5px;
+    font-weight: 200;
     color: var(--senary);
   }
 

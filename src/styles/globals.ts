@@ -16,7 +16,7 @@ export default createGlobalStyle`
     border: 0;
     outline: 0;
 
-    font-family: 'Robot', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
 
   :root {

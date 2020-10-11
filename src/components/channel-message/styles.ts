@@ -62,7 +62,7 @@ export const Header = styled.div`
     padding: 4px 5px;
 
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: 400;
     font-size: 11px;
   }
 
@@ -76,6 +76,7 @@ export const Header = styled.div`
 export const Content = styled.div`
   text-align: left;
   font-size: 16px;
+  font-weight: 200;
   color: var(--white);
 `
 
